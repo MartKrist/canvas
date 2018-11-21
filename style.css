@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: #151519;
+  color: #EEE0CB;
+}
+
+h1{
+  font-size: 220px;
+  font-family: 'Raleway', sans-serif;
+}
+
+body:hover{
+  cursor: default;
+}
+
+
+p {
+  font-size: 50px;
+  font-family: 'Gloria Hallelujah';
+
+}
+
+
+.text {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  line-height: 1.4;
+}
+
+
+
+canvas {
+  display: flex;
+}
